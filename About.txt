@@ -1,0 +1,28 @@
+About App
+
+Name of the App : News Heads
+version: 1.0
+
+Apps Objective:
+
+1). With the help of this application user can caught up with all the top trendy news headlines
+which is provided in text as well as audio format.
+2). User can select from various categories of news such as news related to business,
+entertainment, sports, etc.
+3). He/she can also specify how many headlines should be read out and if user finds a 
+headline useful he/she can get full information about that with a single click.
+4). There is no need to stick to particular publisher. News will be provided by all the famous 
+publishers such as Times of India, Google news, etc.
+5). User can also get the count of Covid-19 cases in specified states and districts.
+6. More over user can operates all this functions through voice commands.
+7). Language used : Python.
+
+Some problems this app can solve:
+
+1). There are people who don’t find reading newspaper interesting as they are not used to reading or they find it time consuming.
+2). And there many more reasons such as:
+	i). we are also restricted with specific publisher.
+	ii). we have to wait for newspaper to get delivered.
+	iii). Sometimes delivery service can’t able deliver news paper for various reasons.
+3). And how can we forget about pandemic, during its peak time newspaper service was ceased.
+4). All these problems could be solved using this application. 

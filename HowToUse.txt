@@ -1,0 +1,22 @@
+Guide for Voice Commands
+
+1.For News headlines:
+	i). Be clear in mentioning the number of headlines and category of news.
+	ii). For better result try saying "Top" before the number of headlines.
+	     eg:- "Top 2 headlines related to business", etc.
+
+2.For Covid-19:
+	i). Be clear in mentioning the keywords "covid", "corona", name of the state, name of the city.
+	ii). For asking covid cases in state please be sure to mention "state" keyword after the name of the state.
+	     eg:- "Covid-19 cases in delhi state",etc.
+	iii). For asking covid cases in city please be sure to mention "city" keyword after the name of the city and
+	      also say the name of the state of that respective city.
+	      eg:- "Covid-19 cases in Maharashtra aurangabad city",etc.
+
+General points to remember:
+
+1). While asking for headlines make sure that no. of headlines are not zero.
+2). For checking covid-19 cases in a state or city, make sure that "state" or "city" is selected in dropdown button
+respectively
+3). While checking covid-19 cases carefully mention the spelling of the "state" or "city"
+
